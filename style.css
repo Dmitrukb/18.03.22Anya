@@ -5,7 +5,7 @@ body{
   min-width: 390px;
 }
 .outer{
-  background-image: url(img/sto2.jpeg); 
+  background-image: url(img/sto2.jpeg) no-repeat; 
   
   height: 50vh;
   
